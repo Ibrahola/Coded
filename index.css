@@ -6,8 +6,8 @@
 }
 
 body{
-    background: pink;
-    background-size: auto;
+    background: url(/galaxy.webp);
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
